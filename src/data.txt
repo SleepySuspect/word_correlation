@@ -1,0 +1,4 @@
+Based on the Context Framework, the se-mantic frame of text is designed and the algorithm of computing semantic frame is developed
+Based on a Context Framework, the se-mantic frame of text is designed and the algorithm of computing semantic frame was developed
+Based on the Context Framework, the se-mantic frame of data is designed and the algorithm of computed semantic frame is developed
+Based on the Context Framework, the se-mantic frame of text is designed and the algorithm of computing semantic frame is developed
